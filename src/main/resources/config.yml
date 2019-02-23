@@ -1,0 +1,42 @@
+#
+# Main Configuration - SuperPLUS
+#
+
+# Server
+server:
+
+  # Server Name
+  name: Super
+
+  # Server MOTD
+  motd: '&dSuper &8- &dSpigot 1.12.2'
+
+  # Managers
+  managers:
+    - Super_
+
+# Command and Chat Formats
+formats:
+
+  # Public Chat Format
+  chat: '%display%&7: &f%message%'
+
+  # Default AdminChat Format
+  admin: '[&bADMIN&f] &4%name% %tagcolor%[%tag%]&f: &b%message%'
+
+  # /say Format
+  say: '&d[Server:%name%] %message%'
+
+# Allow and disallow features
+allow:
+  lava: false
+  water: false
+
+# Blocked Commands
+blocked_commands:
+  - b:/restart
+  - b:/stop
+  - b:/sudo
+  - b:/gamemode
+  - b:/reload
+  - b:/rl

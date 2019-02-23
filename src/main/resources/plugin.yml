@@ -1,0 +1,6 @@
+#
+# Plugin Configuration - SuperPLUS
+#
+name: SuperPLUS
+main: me.superischroma.superplus.SuperPLUS
+version: 0.1
