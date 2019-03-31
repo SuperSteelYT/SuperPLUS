@@ -1,2 +1,2 @@
 # SuperPLUS
-a plugin for freedom servers that was built off of [KanyeMod](https://github.com/SuperSteelYT/KanyeMod)
+my main freedom plugin; i work on it when i want to
